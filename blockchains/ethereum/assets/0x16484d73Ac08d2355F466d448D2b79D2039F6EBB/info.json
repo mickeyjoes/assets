@@ -30,23 +30,24 @@
             "url": "https://reddit.com/r/FortKnoxster"
         },
         {
-            "name": "whitepaper",
-            "url": "https://fortknoxster.com/FortKnoxster_Whitepaper_English.pdf"
+            "name": "instagram",
+            "url": "https://instagram.com/fortknoxster"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/company/fortknoxster"
         },
         {
             "name": "github",
-            "url": "https://github.com/fortknoxster"
+            "url": "https://instagram.com/fortknoxster"
         },
         {
             "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/fortknoxster"
+            "url": "https://www.coingecko.com/en/coins/fortknoxster"
         },
         {
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/fortknoxster"
         }
-    ],
-    "tags": [
-        "nft"
     ]
 }
